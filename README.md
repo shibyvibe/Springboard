@@ -1,2 +1,2 @@
 # Springboard
-Setup up GIT for classwork
+Setup up GIT for classwork and exercises
